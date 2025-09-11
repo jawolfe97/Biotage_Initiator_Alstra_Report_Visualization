@@ -52,11 +52,13 @@ To add OCR functionality, consider using pytesseract
  or ocrmypdf
 .
 
-Acknowledgments
+## Acknowledgments
 
 PyPDF2
  for PDF parsing
 
 ChatGPT (by OpenAI) for assistance in developing and refining this script
+
+## License
 
 📄 Licensed under MIT License
