@@ -25,28 +25,30 @@ Install PyPDF2 with:
 
 ```bash
 pip install PyPDF2
-Usage
+
+## Usage
+
 Clone or download this repository.
 
 Place the script in the same folder as your PDFs.
 
 Run the script:
 
-bash
-Copy code
-python pdf_to_txt.py
 The script will create a .txt file for each .pdf file in the same folder.
 
-Example:
+## Notes
 
-Copy code
-report.pdf   →   report.txt
-Notes
 If a PDF contains only scanned images, no text will be extracted (OCR is not included).
 
-To add OCR functionality, consider using pytesseract or ocrmypdf.
+To add OCR functionality, consider using pytesseract
+ or ocrmypdf
+.
 
 Acknowledgments
-PyPDF2 for PDF parsing
+
+PyPDF2
+ for PDF parsing
 
 ChatGPT (by OpenAI) for assistance in developing and refining this script
+
+📄 Licensed under MIT License
