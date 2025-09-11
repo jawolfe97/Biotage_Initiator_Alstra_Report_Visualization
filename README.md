@@ -28,16 +28,21 @@ pip install PyPDF2
 ```
 ## Usage
 
-Clone or download this repository.
+1. Clone or download this repository.
 
-Place the script in the same folder as your PDFs.
+2. Place the script in the same folder as your PDFs.
 
-Run the script:
+3. Run the script:
 ```
 python pdf_to_txt.py
 ```
 
-The script will create a ```.txt``` file for each ```.pdf``` file in the same folder.
+4. The script will create a ```.txt``` file for each ```.pdf``` file in the same folder.
+
+Example:
+```
+report.pdf   →   report.txt
+```
 
 ## Notes
 
