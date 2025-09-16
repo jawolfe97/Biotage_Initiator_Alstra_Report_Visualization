@@ -57,7 +57,7 @@ To add OCR functionality, consider using pytesseract
 PyPDF2
  for PDF parsing
 
-ChatGPT (by OpenAI) for assistance in developing and refining this script
+ChatGPT (by OpenAI) for assistance in developing, refining, and reporting this script
 
 ## License
 
